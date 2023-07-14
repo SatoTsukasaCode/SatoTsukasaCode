@@ -1,3 +1,4 @@
-C and Go Dev.
+Hello, I'm Sato.
 
-learning python and Rust
+I like to program in C, Rust and Go.
+I like to mess around with linux.
